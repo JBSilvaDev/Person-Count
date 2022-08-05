@@ -1,3 +1,3 @@
 # Contador de pessoas
 
-![](/Img/contador_pessoas.jpg)
+![](./imgs/contador_pessoas.jpg)
